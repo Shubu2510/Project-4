@@ -1,4 +1,4 @@
-# Project-4
+# Project-4 (Mobile Price Prediction)
 Mobile Price Prediction
 For Mobile Price Prediction's i have used EDA, so that further insights can be drawn from this data. 
 Here I have done data wrangling, central tendency of the data, finding missing values (None), detection of Outliers and it’s removal, along with correlation of the final data with eachother. 
